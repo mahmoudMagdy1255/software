@@ -1,0 +1,41 @@
+#root {
+ 
+-fx-background-image:  url("800px_COLOURBOX4168554.jpg");
+ 
+-fx-border-color: white;
+ 
+-fx-border-radius: 20;
+ 
+-fx-background-radius: 20;
+  
+
+}
+
+
+
+#bp {
+ -fx-background-color:  linear-gradient(gray,DimGrey );
+}
+
+
+
+#btnLogin{
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-background-color: linear-gradient(orange, White) ;
+}
+ 
+
+
+#btnExit{
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-background-color: Red ;
+}
+ 
+
+
+
+#login{
+-fx-fill: linear-gradient(orange, White);
+}
